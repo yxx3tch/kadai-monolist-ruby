@@ -67,6 +67,10 @@ p.item-title {
   -webkit-line-clamp: 2;
   overflow: hidden;
 }
+.item .buttons form {
+  display: inline-block;
+  margin: 0 5px;
+}
 
 /* users */
 .user-profile .name {
